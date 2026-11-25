@@ -4,16 +4,19 @@
 
 ## 다운로드
 
-[최신 버전 받기 (Jjappi-mac.zip)](https://github.com/hyj090915/Jjappi/releases/latest/download/Jjappi-mac.zip)
+[DMG 설치 파일](https://github.com/hyj090915/Jjappi/releases/latest/download/Jjappi-mac.dmg) · [ZIP 압축 파일](https://github.com/hyj090915/Jjappi/releases/latest/download/Jjappi-mac.zip)
 
 - Apple Silicon(M1 이후) 맥, macOS 14 이상
 - 무료
 
 ## 설치
 
-1. zip 파일을 더블클릭해 압축을 풀어요.
-2. 짜삐.app을 응용 프로그램 폴더로 옮겨요.
-3. 처음 열 때 경고가 뜨면 시스템 설정 › 개인정보 보호 및 보안에서 '그래도 열기'를 눌러요.
+1. DMG를 받았다면 파일을 열고 짜삐를 옆의 **Applications** 폴더로 끌어다 놓으세요. ZIP을 받았다면 압축을 풀고 짜삐를 **응용 프로그램** 폴더로 옮기세요.
+2. 응용 프로그램에서 짜삐를 여세요. 처음 실행할 때 macOS가 인터넷에서 다운로드한 앱을 열지 물으면 **열기**를 누르세요.
+
+## 업데이트
+
+0.2.1 이하를 쓰고 있다면 짜삐를 완전히 종료한 뒤, 위 설치 순서대로 기존 앱을 한 번 교체해 주세요. 0.2.2부터는 짜삐를 연 상태에서 메뉴 막대의 **짜삐 도구 → 업데이트 확인…**을 눌러 새 버전을 설치할 수 있어요. 같은 메뉴에서 **자동으로 업데이트 확인**을 켜거나 끌 수 있어요.
 
 ## 알림
 
